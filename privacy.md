@@ -5,7 +5,7 @@ This Privacy Policy explains how Softstep Studio ("the Bot", "we", "us", or "our
 
 ## 1. Data We Collect
 To function properly, the Bot may collect and process the following information:
-* **Discord Identifiers:** 1495322058999992371, 399864099946889216, and Channel ID.
+* **Discord Identifiers:** 1495322058999992371, 399864099946889216, and 1091758119555698761.
 * **Command and Interaction Data:** When you mention the Bot or use its slash commands (`/`), we receive the text of your prompt. The Bot **does not** read, record, or store general channel messages where it is not explicitly invoked.
 
 ## 2. How We Use Your Data
